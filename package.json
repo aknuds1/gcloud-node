@@ -102,7 +102,7 @@
     "gce-images": "^0.2.0",
     "gcs-resumable-upload": "^0.5.0",
     "google-auto-auth": "^0.2.0",
-    "google-proto-files": "^0.1.1",
+    "google-proto-files": "^0.20.0",
     "grpc": "^0.14.1",
     "hash-stream-validation": "^0.1.0",
     "is": "^3.0.1",
